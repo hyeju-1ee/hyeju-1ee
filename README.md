@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hyeju-1ee
+- 👋 Hi,
 - 👀 I'm interested in web development.
 - 🌱 I’m currently learning HTML,CSS,JavaScript,Python all at the same time 😂
 - 💞️ I will come back to Github as a full stack developer next year. (fingers crossed 🤞🏻)
